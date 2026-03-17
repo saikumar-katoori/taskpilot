@@ -1,0 +1,6 @@
+/* App-level overrides are handled in index.css using the tp-* classes. */
+
+#root {
+  min-height: 100vh;
+}
+
